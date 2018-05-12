@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25552
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins_Pennell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38076#Our-Philadelphia
 gutenberg_issued: '2011-11-21'
 gutenberg_type: Text
 identifiers:
