@@ -1,0 +1,42 @@
+_repo: Our-Philadelphia_38076
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pennell, Joseph
+    alias: Pennell, J. (Joseph)
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '33068'
+    url: http://www.gutenberg.org/2009/agents/33068
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
+covers:
+- cover_type: archival
+  image_path: 38076-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pennell, Elizabeth Robins
+    alias: Pennell, E. R. (Elizabeth Robins)
+    birthdate: 1855
+    deathdate: 1936
+    gutenberg_agent_id: '25552'
+    url: http://www.gutenberg.org/2009/agents/25552
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins_Pennell
+description: ''
+gutenberg_issued: '2011-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38076'
+  lccn: '14020572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pennell, Elizabeth Robins, 1855-1936'
+- !lcsh 'Philadelphia (Pa.) -- Description and travel'
+- !lcsh 'Lithography, American'
+- !lcsh 'Philadelphia (Pa.) -- Social life and customs'
+- !lcsh 'Philadelphia (Pa.) -- Pictorial works'
+- !lcc 'F106'
+title: Our Philadelphia
+url: http://www.gutenberg.org/ebooks/38076
